@@ -1,7 +1,9 @@
+<h1 align="center">&#128513; Happinessometer  &#127777;</h1>
+
 <p align="center"><img alt="Happinessometer - img" src="https://i.pinimg.com/originals/a9/25/2c/a9252c854c321c4a24540d05472c66f3.gif"/>
 </p>
 
-<h3 align="center">&#128513; Happinessometer  &#127777;</h3>
+
 <p align="center">
   A curios project with my Beatiful Gwendolin &#129392; about a termometer with the capacity to make you more happy or try to.
   </p>
